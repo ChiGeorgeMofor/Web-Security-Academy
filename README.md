@@ -16,4 +16,4 @@ Feel free to clone the repository, explore the labs, and contribute! Your feedba
 
 Let’s secure the web together! 🌍✨
    ```bash
-   git clone https://github.com/ChiGeorgeMofor/My-OSINT-21-days.git
+   git clone https://github.com/ChiGeorgeMofor/Web-Security-Academy.git
