@@ -15,3 +15,5 @@ In this course, I’ll be tackling a total of 13 labs that cover various aspects
 Feel free to clone the repository, explore the labs, and contribute! Your feedback and insights are always welcome.
 
 Let’s secure the web together! 🌍✨
+   ```bash
+   git clone https://github.com/ChiGeorgeMofor/My-OSINT-21-days.git
