@@ -1,5 +1,5 @@
 🌐 Web-Security-Academy
-
+ 
 Welcome to the Web-Security-Academy repository! 🚀 This repository is dedicated to my journey through a comprehensive web security course focused on the top OWASP vulnerabilities.
 📚 Course Overview
 
