@@ -2,7 +2,7 @@
       
 Welcome to the Web-Security-Academy repository! 🚀 This repository is dedicated to my journey through a comprehensive web security course focused on the top OWASP vulnerabilities.
 📚 Course Overview   
-
+ 
 In this course, I’ll be tackling a total of 13 labs that cover various aspects of web security, from understanding vulnerabilities to implementing effective mitigations. Each lab will include practical exercises and solutions coded in Python 🐍.
 💡 Key Features
 
